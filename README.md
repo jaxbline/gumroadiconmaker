@@ -1,5 +1,5 @@
 # Gumroad Icon Maker
-A very niche plugin to make turntable animatiosn for my gumroad page
+A very niche plugin to make turntable animation for my gumroad page
 
 
 
